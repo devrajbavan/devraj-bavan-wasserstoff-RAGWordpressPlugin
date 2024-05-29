@@ -1,0 +1,19 @@
+my_chatbot_project/
+│
+├── flask_app/
+│   ├── app.py
+│   ├── run_qa.py
+│   ├── templates/
+│   │   └── index.html
+│   ├── data/
+│   │   └── wordpress_content.json
+│   └── static/
+│       └── js/
+│           └── my-chatbot.js
+│
+├── wordpress_plugin/
+│   ├── my-chatbot-plugin.php
+│   └── my-chatbot.js
+│
+├── requirements.txt
+└── README.md
