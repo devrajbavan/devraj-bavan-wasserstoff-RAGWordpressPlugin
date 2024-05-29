@@ -113,3 +113,16 @@ This project involves the development of a versatile, intelligent chatbot that u
 - **Chain of Thought Processing**: The CoT module refines the response through logical steps.
 - **Final Response**: The system delivers a contextually relevant and logically coherent answer to the user.
 
+### License
+This project is licensed under the [MIT License](https://github.com/devrajbavan/devraj-bavan-wasserstoff-RAGWordpressPlugin/blob/main/LICENSE) - see the LICENSE file for details.
+
+### Acknowledgements
+- [Hugging Face](https://huggingface.co/) for the Transformers library.
+- [Faiss](https://github.com/facebookresearch/faiss) for the vector search implementation.
+- [WordPress](https://wordpress.org/) for providing a robust platform for content management.
+
+By following this documentation, you should be able to set up, run, and understand the workings of the RAG-based Query Suggestion Chatbot with Chain of Thought for WordPress Sites.
+```vbnet
+
+This formatted text includes clickable links that will render correctly on GitHub.
+
