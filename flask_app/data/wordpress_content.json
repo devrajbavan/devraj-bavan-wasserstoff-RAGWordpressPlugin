@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding the Basics of Artificial Intelligence",
+        "content": "Artificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines that can mimic human behavior. It has a wide range of applications including natural language processing, robotics, and machine learning."
+    },
+    {
+        "id": 2,
+        "title": "The Importance of Data Privacy",
+        "content": "Data privacy is essential in today's digital age. It involves the proper handling of data to ensure that it is not misused or accessed without permission. Protecting personal information is crucial for maintaining trust and security."
+    },
+    {
+        "id": 3,
+        "title": "Exploring the Wonders of Space",
+        "content": "Space exploration has always been a fascinating subject. From landing on the moon to exploring Mars, humans have made significant strides in understanding the universe. The advancements in space technology continue to amaze us."
+    },
+    {
+        "id": 4,
+        "title": "Healthy Eating Habits for a Better Life",
+        "content": "Maintaining healthy eating habits is important for overall well-being. It includes consuming a balanced diet with the right proportions of vitamins, minerals, and nutrients. Healthy eating can prevent many chronic diseases."
+    },
+    {
+        "id": 5,
+        "title": "The Future of Renewable Energy",
+        "content": "Renewable energy sources like solar, wind, and hydro power are essential for sustainable development. They provide a cleaner alternative to fossil fuels and help in reducing the carbon footprint. The future of energy is green."
+    }
+]
